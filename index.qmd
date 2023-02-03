@@ -1,5 +1,9 @@
 ---
-title: "Katy Prudic, PhD"
+title: "Katy Prudic"
+image: beercat.jpg
+about: 
+  template: jolla
+  image-shape: rounded
 ---
 
 Welcome! I'm a professor in the School of Natural Resources and the Environment

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "klprudic"
+  title: "Katy Prudic, PhD"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
