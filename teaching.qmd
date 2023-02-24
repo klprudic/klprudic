@@ -1,0 +1,8 @@
+---
+title: "Teaching"
+
+about:
+  template: solana
+---
+
+I teach a variety of courses.

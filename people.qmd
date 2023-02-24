@@ -1,0 +1,10 @@
+---
+title: "People"
+
+about:
+  template: solana
+---
+
+### Collaborators
+
+### Current Students

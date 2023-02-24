@@ -1,0 +1,15 @@
+---
+title: "Research"
+
+about:
+  template: solana
+  links: 
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=dtI67UcAAAAJ&hl=en
+      - text: ORCiD
+        href: https://orcid.org/0000-0001-8242-7769
+      - text: CV
+        href: https://drive.google.com/file/d/1L_I-i3wLrxY_fhOfyovp8phSWVX6WHkO/view?usp=sharing
+---
+
+We research how climate change impacts the spatial and temporal alignment of butterflies and their host plants.

@@ -4,6 +4,19 @@ image: beercat.jpg
 about: 
   template: jolla
   image-shape: rounded
+  links: 
+    - icon: envelope
+      text: email
+      href: mailto:klprudic@arizona.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/klprudic
+    - icon: calendar-heart
+      text: Calendly
+      href: https://calendly.com/klprudic/officehours
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/envirokaty
 ---
 
 Welcome! I'm a professor in the School of Natural Resources and the Environment
