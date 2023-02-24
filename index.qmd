@@ -6,7 +6,7 @@ about:
   image-shape: rounded
   links: 
     - icon: envelope
-      text: email
+      text: E-mail
       href: mailto:klprudic@arizona.edu
     - icon: github
       text: GitHub
