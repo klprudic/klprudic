@@ -9,7 +9,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Katy Prudic",
+    "title": "Katy Prudic, Ph.D.",
     "section": "",
     "text": "Welcome! I’m a professor in the School of Natural Resources and the Environment at the University of Arizona.\nPardon my mess, this website is a work in progress. Go Quarto!"
   },
@@ -25,6 +25,20 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I teach a variety of courses."
+    "text": "I teach a variety of courses, sometimes well."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "I do cool stuff."
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Science is for everyone."
   }
 ]

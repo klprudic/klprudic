@@ -1,0 +1,9 @@
+---
+title: "CV"
+
+about:
+  template: solana
+---
+
+I do cool stuff.
+

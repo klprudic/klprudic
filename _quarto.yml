@@ -12,8 +12,13 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: outreach.qmd
+        text: Outreach
       - href: people.qmd
         text: People
+      - href: cv.qmd
+        text: CV
+
 
 format:
   html:
@@ -21,5 +26,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

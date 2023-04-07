@@ -5,4 +5,4 @@ about:
   template: solana
 ---
 
-I teach a variety of courses.
+I teach a variety of courses, sometimes well.

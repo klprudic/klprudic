@@ -1,12 +1,12 @@
 ---
-title: "Katy Prudic"
+title: "Katy Prudic, Ph.D."
 image: beercat.jpg
 about: 
   template: jolla
   image-shape: rounded
   links: 
     - icon: envelope
-      text: E-mail
+      text: Email
       href: mailto:klprudic@arizona.edu
     - icon: github
       text: GitHub
